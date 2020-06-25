@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.ad8d05f6.chunk.js",
-    "main.js.map": "/static/js/main.ad8d05f6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dede5d52.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dede5d52.js.map",
-    "static/js/2.cd3de57c.chunk.js": "/static/js/2.cd3de57c.chunk.js",
-    "static/js/2.cd3de57c.chunk.js.map": "/static/js/2.cd3de57c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2c469ab19d57b0f13bab99c58cae10a7.js": "/precache-manifest.2c469ab19d57b0f13bab99c58cae10a7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.cd3de57c.chunk.js.LICENSE.txt": "/static/js/2.cd3de57c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/lush-interior/static/media/logo.5d5d9eef.svg"
+    "main.css": "/lush-interior/static/css/main.c44c802a.chunk.css",
+    "main.js": "/lush-interior/static/js/main.5341895a.chunk.js",
+    "main.js.map": "/lush-interior/static/js/main.5341895a.chunk.js.map",
+    "runtime-main.js": "/lush-interior/static/js/runtime-main.758c56c2.js",
+    "runtime-main.js.map": "/lush-interior/static/js/runtime-main.758c56c2.js.map",
+    "static/css/2.5a510433.chunk.css": "/lush-interior/static/css/2.5a510433.chunk.css",
+    "static/js/2.b992cd90.chunk.js": "/lush-interior/static/js/2.b992cd90.chunk.js",
+    "static/js/2.b992cd90.chunk.js.map": "/lush-interior/static/js/2.b992cd90.chunk.js.map",
+    "index.html": "/lush-interior/index.html",
+    "precache-manifest.2414462c6769495a6a019bf77699caad.js": "/lush-interior/precache-manifest.2414462c6769495a6a019bf77699caad.js",
+    "service-worker.js": "/lush-interior/service-worker.js",
+    "static/css/2.5a510433.chunk.css.map": "/lush-interior/static/css/2.5a510433.chunk.css.map",
+    "static/css/main.c44c802a.chunk.css.map": "/lush-interior/static/css/main.c44c802a.chunk.css.map",
+    "static/js/2.b992cd90.chunk.js.LICENSE.txt": "/lush-interior/static/js/2.b992cd90.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dede5d52.js",
-    "static/js/2.cd3de57c.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ad8d05f6.chunk.js"
+    "static/js/runtime-main.758c56c2.js",
+    "static/css/2.5a510433.chunk.css",
+    "static/js/2.b992cd90.chunk.js",
+    "static/css/main.c44c802a.chunk.css",
+    "static/js/main.5341895a.chunk.js"
   ]
 }
